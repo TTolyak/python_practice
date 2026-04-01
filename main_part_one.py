@@ -46,4 +46,4 @@ data_frame_dict = {
 }
 data_frame = pd.DataFrame(data_frame_dict)
 data_frame.to_excel('ishodVarNum.xlsx', index = False)
-data_frame.to_csv('ishodVarNum.csv', index = False)
+data_frame.to_csv('ishodVarNum.csv', index = False)"Заголовок" 
