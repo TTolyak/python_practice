@@ -464,3 +464,4 @@ with pd.ExcelWriter('results.xlsx', engine='openpyxl', mode='a') as writer:
     })
     sets_info.to_excel(writer, sheet_name='–ú–Ω–æ–∂–µ—Å—Ç–≤–∞', index=False)
 
+"è•‡¢†Ô Á†·‚Ï ß†§†≠®Ô" 
